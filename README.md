@@ -81,7 +81,7 @@ This extension is licensed under the [MIT License](https://opensource.org/licens
 
 ## Issues and Contributions
 
-Feel free to open issues and contribute to the development of this extension on [GitHub](https://github.com/MohamedWaelBishr/inserteffect-react-useeffect-snippet).
+Feel free to open issues and contribute to the development of this extension on [GitHub](https://github.com/MohamedWaelBishr/useEffect-useState-vscode-extension).
 
 ---
 

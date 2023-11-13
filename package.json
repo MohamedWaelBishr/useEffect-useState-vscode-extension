@@ -64,5 +64,10 @@
   "dependencies": {
     "@vscode/vsce": "^2.22.0",
     "global": "^4.4.0"
+  },
+  "icon": "assets/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MohamedWaelBishr/useEffect-useState-vscode-extension.git"
   }
 }
