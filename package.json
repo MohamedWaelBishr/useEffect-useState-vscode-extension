@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.84.0"
   },
+  "publisher": "MohamedWaelBishr",
   "categories": [
     "Other"
   ],
@@ -69,5 +70,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/MohamedWaelBishr/useEffect-useState-vscode-extension.git"
-  }
+  },
+  "license": "MIT"
 }
